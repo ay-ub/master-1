@@ -29,8 +29,8 @@ To set up and run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/ay-ub/master-1.git
+   cd ./master-1/se/tpNumber
    ```
 
 2. Install the packages using `pnpm` or `npm`:
