@@ -1,0 +1,9 @@
+numero=Livre 1, titre=livre 1 titreauteur=ayoub, nbrPage=100
+numero=dic 1, titre=dic 1 titrelangue=ar, nbrTonne=200
+numero=Livre 2, titre=livre 2 titreauteur=AZIZ, nbrPage=100
+numero=Livre 3, titre=livre 3 titreauteur=YOUCEF, nbrPage=100
+numero=dic 2, titre=dic 1 titrelangue=ar, nbrTonne=100
+numero=dic 3, titre=dic 3 titrelangue=EN, nbrTonne=130
+numero=Livre 4, titre=livre 4 titreauteur=MOHAMED, nbrPage=100
+numero=dic 3, titre=dic 4 titrelangue=FR, nbrTonne=300
+numero=dic 3, titre=dic 5 titrelangue=ar, nbrTonne=230
