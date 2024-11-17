@@ -1,0 +1,10 @@
+Ce polycopié aborde les tâches qui 
+peuvent être réalisées par un administrateur de base de
+données (BD) ainsi que les différentes architectures existantes 
+dans le monde des systèmes de
+gestion de base de données (SGBD)
+Ce cours permet aussi d'acquérir des savoir-faire comme
+la création des utilisateurs, des tables
+Ce polycopié aborde les tâches qui 
+peuvent être réalisées par un administrateur de base de
+données (BD) ainsi que les différentes architectures existantes
